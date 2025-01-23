@@ -4,7 +4,6 @@
   </a>
 </p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{chhaseeb47}/count.svg" alt="chhaseeb47 :: Visitor's Count" /></p>
 
 <p align="center">
   <a href="https://whatsapp.com/channel/0029Va8SjGU1noyxsYBA2K2e"><img src="https://img.shields.io/badge/Connect on WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
